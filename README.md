@@ -7,7 +7,7 @@ a programme can dectect the bird and the gaps in flappy bird and control the bir
 libraries needed by [YAD2K](https://github.com/allanzelener/YAD2K)
 
 ### ScreenShot
-![dection result of a frame](images/out/109dayYellow.jpg)
+![dection result of a frame](109dayYellow.jpg)
 ### Stand on the shoulders of the giants
 [yolo](https://pjreddie.com/darknet/yolo/)
 [YAD2K](https://github.com/allanzelener/YAD2K) :provide a yolo coded by python
