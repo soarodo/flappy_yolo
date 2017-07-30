@@ -9,8 +9,8 @@ libraries needed by [YAD2K](https://github.com/allanzelener/YAD2K)
 ### ScreenShot
 ![dection result of a frame](109dayYellow.jpg)
 ### Stand on the shoulders of the giants
-[yolo](https://pjreddie.com/darknet/yolo/)
-[YAD2K](https://github.com/allanzelener/YAD2K) :provide a yolo coded by python
+[yolo](https://pjreddie.com/darknet/yolo/)  
+[YAD2K](https://github.com/allanzelener/YAD2K) :provide a yolo coded by python  
 [flappy bird](https://github.com/sourabhv/FlapPyBird) :flappy bird game coded by python-pygame
 
 --------------------------------------------------------------------------------
