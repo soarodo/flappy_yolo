@@ -1,12 +1,7 @@
 # Ignore generated models, test images, and Darknet files.
 *.h5
 *.weights
-*.png
-*.jpg
 *.cfg
-images/*
-images/out/*
-model_data/*_anchors.txt
 
 # Tensorboard training logs
 logs/
