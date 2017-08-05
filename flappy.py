@@ -310,7 +310,7 @@ def mainGame(movementInfo):
         image_data=np.transpose(image_data,(1,0,2))
         image_data=cv2.cvtColor(image_data,cv2.COLOR_BGR2RGB)
         out_boxes,out_scores,out_classes,class_names=yolo.detect_image(image_data)
-        x,y,_=image_data.shape
+        y,x,_=image_data.shape
         bird_cor=[0,0]
         pipe_cor=[0,0]
         lamda=0.6
